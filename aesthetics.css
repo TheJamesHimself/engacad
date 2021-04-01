@@ -6,7 +6,7 @@ body
   background-image: url('Terra Guard.png');
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: scroll;
+  background-attachment: fixed;
 }
 .selected{font-weight: bold;}
 ul{list-style-type: square;}
